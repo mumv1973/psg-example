@@ -1,0 +1,4 @@
+Saludos a todos y bienvenidos a PSG for Beginners. 
+
+Aprenderemos juntos Python uno de los lenguajes mas utilizados a nivel mundial. 
+En este curso aprenderemos a programar desde cero, sin conocimientos previos.
