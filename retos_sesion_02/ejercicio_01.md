@@ -1,4 +1,4 @@
-# Receta de Sandwich de Jamón y Queso
+# Receta de Sandwich de Jamón y Queso (caliente).
 
 ## Ingredientes:
 
