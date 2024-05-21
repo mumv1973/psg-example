@@ -2,14 +2,9 @@
 
 print(bool(-15))
 
-print("Es True")
+print("-15 Es True")
 
-# Construir el operador XNOR en Python 
 
-print(not (True or True))
-print(not (True or False))
-print(not (False or True))
-print(not (False or False))
 
 
 
